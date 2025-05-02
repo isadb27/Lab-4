@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'fight';
+    src: url('/fonts/fight/Fight Bold.otf');
+}
+
+@font-face {
+    font-family: 'fff';
+    src: url('/fonts/fff/FFF_Medium_TRIAL.ttf');
+}
+
+@font-face {
+    font-family: 'fff';
+    src: url('/fonts/fff/FFF_Bold_TRIAL.ttf');
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'fff';
+    src: url('/fonts/fff/FFF_Light_TRIAL.ttf');
+    font-weight: lighter;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
